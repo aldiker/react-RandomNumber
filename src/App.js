@@ -6,6 +6,7 @@ function App() {
         <div className='App'>
             <RandomNumber maxNum={10000} />
             <RandomNumber maxNum={10} />
+            <RandomNumber />
         </div>
     )
 }
